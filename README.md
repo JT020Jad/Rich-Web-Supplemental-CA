@@ -1,3 +1,10 @@
+# PLEASE NOTE
+This web app is not entirely functional, the child notes are created and spaced below the parent, they are also removed when the parent is deleted
+however there is a bug where the child note is not being correctly rendered and its contents are not being displayed
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
